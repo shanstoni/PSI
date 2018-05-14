@@ -12,8 +12,8 @@ public class Questions {
     String answer = "";
 
 
-    private String[] questionsArray = {"pieczarki", "salami", "boczek", "szynka", "papryka", "kurczak", "ananas", "kukurydza",
-            "suszone pomidory", "szpinak", "chilli", "cebula", "oliwki"};
+    private String[] questionsArray = {"pieczarki", "salami", "boczek", "szynke", "papryke", "kurczaka", "ananasa", "kukurydze",
+            "suszone pomidory", "szpinak", "chilli", "cebule", "oliwki"};
 
     private String doyoulike = "Czy lubisz ";
 
